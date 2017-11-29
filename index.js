@@ -13,3 +13,6 @@ http.createServer(function (request, response) {
 
 // Console will print the message
 console.log('Server running at http://127.0.0.1:8080/');
+
+// cli token : bc2f5023469644228e6f09406a65caa3
+// cli secret : 5d548aad9d494212a5d9b35d0f4ea518
